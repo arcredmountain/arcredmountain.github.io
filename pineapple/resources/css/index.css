@@ -115,8 +115,8 @@
 	position: absolute;
 	width: 388px;
 	height: 534.433px;
-	left: 48px;
-	top: 685px;
+	left: 486px;
+	top: 680px;
 	transform: matrix(1,0,0,1,0,0);
 }
 .Rectangle_15_Class {
@@ -181,6 +181,14 @@
 	font-size: 46px;
 	color: rgba(243,199,46,1);
 }
+.Group_1_Class {
+	position: absolute;
+	width: 378px;
+	height: 524.433px;
+	left: 486px;
+	top: 111px;
+	overflow: visible;
+}
 .Path_9_Class {
 	fill: rgba(80,76,142,1);
 	stroke: rgba(243,199,46,1);
@@ -195,15 +203,15 @@
 	position: absolute;
 	width: 388px;
 	height: 534.433px;
-	left: 686px;
-	top: 552px;
+	left: 0px;
+	top: 0px;
 	transform: matrix(1,0,0,1,0,0);
 }
 .Fluffyexample_Class {
 	position: absolute;
-	width: 393px;
-	height: 472px;
-	left: 675px;
-	top: 562px;
+	width: 378px;
+	height: 453.997px;
+	left: 0px;
+	top: 35px;
 	overflow: visible;
 }
