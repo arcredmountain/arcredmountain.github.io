@@ -215,3 +215,31 @@
 	top: 35px;
 	overflow: visible;
 }
+.Meet_Pineapple_Class {
+	left: 68px;
+	top: 111px;
+	position: absolute;
+	overflow: visible;
+	width: 331px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 46px;
+	color: rgba(243,199,46,1);
+}
+.The_responsive__Webex_bot_Class {
+	left: 523px;
+	top: 680px;
+	position: absolute;
+	overflow: visible;
+	width: 305px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 46px;
+	color: rgba(243,199,46,1);
+}
