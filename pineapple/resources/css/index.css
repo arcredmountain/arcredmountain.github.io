@@ -243,3 +243,17 @@
 	font-size: 46px;
 	color: rgba(243,199,46,1);
 }
+.Meet_FluffyPineapple_Pineapple_Class {
+	left: 67px;
+	top: 173px;
+	position: absolute;
+	overflow: visible;
+	width: 341px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(243,199,46,1);
+}
