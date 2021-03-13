@@ -1,14 +1,13 @@
 .mediaViewInfo {
-	--web-view-name: Main Page;
-	--web-view-id: Main_Page;
+	--web-view-name: Pineapple Page;
+	--web-view-id: Pineapple_Page;
 	--web-scale-to-fit: true;
 	--web-scale-to-fit-type: width;
-	--web-scale-on-double-click: true;
 	--web-center-horizontally: true;
 	--web-enable-deep-linking: true;
 }
 :root {
-	--web-view-ids: Main_Page;
+	--web-view-ids: Pineapple_Page;
 }
 * {
 	margin: 0;
@@ -16,17 +15,16 @@
 	box-sizing: border-box;
 	border: none;
 }
-.Main_Page_Class {
+.Pineapple_Page_Class {
 	position: absolute;
 	width: 1349px;
 	height: 1486px;
 	background-color: rgba(255,255,255,1);
 	overflow: hidden;
-	--web-view-name: Main Page;
-	--web-view-id: Main_Page;
+	--web-view-name: Pineapple Page;
+	--web-view-id: Pineapple_Page;
 	--web-scale-to-fit: true;
 	--web-scale-to-fit-type: width;
-	--web-scale-on-double-click: true;
 	--web-center-horizontally: true;
 	--web-enable-deep-linking: true;
 }
@@ -47,12 +45,12 @@
 	left: 0px;
 	top: 0px;
 }
-.Unofficial_Red_Mountain_ARC_Re_Class {
+.FluffyPineapple_Bot_Class {
 	left: 128px;
 	top: 22px;
 	position: absolute;
 	overflow: visible;
-	width: 712px;
+	width: 348px;
 	white-space: nowrap;
 	text-align: left;
 	font-family: MS Reference Sans Serif;
@@ -69,120 +67,6 @@
 	top: 1396px;
 	overflow: visible;
 }
-.Component_5__1_Class {
-	position: absolute;
-	width: 224px;
-	height: 46px;
-	left: 904.335px;
-	top: 46px;
-	overflow: visible;
-}
-.Rectangle_10_Class {
-	fill: rgba(38,31,143,1);
-	stroke: rgba(243,199,46,1);
-	stroke-width: 3px;
-	stroke-linejoin: miter;
-	stroke-linecap: butt;
-	stroke-miterlimit: 4;
-	shape-rendering: auto;
-}
-.Rectangle_10 {
-	position: absolute;
-	overflow: visible;
-	width: 224px;
-	height: 46px;
-	left: 0px;
-	top: 0px;
-}
-.Component_4__1_Class {
-	position: absolute;
-	width: 224px;
-	height: 46px;
-	left: 1125px;
-	top: 46px;
-	overflow: visible;
-}
-.Rectangle_11_Class {
-	fill: rgba(38,31,143,1);
-	stroke: rgba(243,199,46,1);
-	stroke-width: 3px;
-	stroke-linejoin: miter;
-	stroke-linecap: butt;
-	stroke-miterlimit: 4;
-	shape-rendering: auto;
-}
-.Rectangle_11 {
-	position: absolute;
-	overflow: visible;
-	width: 224px;
-	height: 46px;
-	left: 0px;
-	top: 0px;
-}
-.Component_2__1_Class {
-	position: absolute;
-	width: 224px;
-	height: 46px;
-	left: 904.335px;
-	top: 0px;
-	overflow: visible;
-}
-.Rectangle_12_Class {
-	fill: rgba(38,31,143,1);
-	stroke: rgba(243,199,46,1);
-	stroke-width: 3px;
-	stroke-linejoin: miter;
-	stroke-linecap: butt;
-	stroke-miterlimit: 4;
-	shape-rendering: auto;
-}
-.Rectangle_12 {
-	position: absolute;
-	overflow: visible;
-	width: 224px;
-	height: 46px;
-	left: 0px;
-	top: 0px;
-}
-.Component_3__1_Class {
-	position: absolute;
-	width: 224px;
-	height: 46px;
-	left: 1125px;
-	top: 0px;
-	overflow: visible;
-}
-.Rectangle_13_Class {
-	fill: rgba(38,31,143,1);
-	stroke: rgba(243,199,46,1);
-	stroke-width: 3px;
-	stroke-linejoin: miter;
-	stroke-linecap: butt;
-	stroke-miterlimit: 4;
-	shape-rendering: auto;
-}
-.Rectangle_13 {
-	position: absolute;
-	overflow: visible;
-	width: 224px;
-	height: 46px;
-	left: 0px;
-	top: 0px;
-}
-.Data_Parser_Class {
-	left: 959.778px;
-	top: 8px;
-	position: absolute;
-	overflow: visible;
-	width: 116px;
-	white-space: nowrap;
-	text-align: left;
-	font-family: Segoe UI;
-	font-style: normal;
-	font-weight: normal;
-	font-size: 23px;
-	color: rgba(255,255,255,1);
-}
 .favicon-96x96_Class {
 	position: absolute;
 	width: 96px;
@@ -191,7 +75,7 @@
 	top: 0px;
 	overflow: visible;
 }
-.favicon-96x96_v_Class {
+.favicon-96x96_m_Class {
 	position: absolute;
 	width: 96px;
 	height: 96px;
@@ -408,17 +292,34 @@
 	font-size: 14px;
 	color: rgba(243,199,46,1);
 }
-.Pineapple_Bot_Class {
-	left: 946.778px;
-	top: 54px;
+.Rectangle_16_Class {
+	fill: rgba(38,31,143,1);
+	stroke: rgba(243,199,46,1);
+	stroke-width: 5px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_16 {
 	position: absolute;
 	overflow: visible;
-	width: 142px;
+	width: 431px;
+	height: 92px;
+	left: 918px;
+	top: 0px;
+}
+.BACK_Class {
+	left: 1079px;
+	top: 13px;
+	position: absolute;
+	overflow: visible;
+	width: 111px;
 	white-space: nowrap;
 	text-align: left;
 	font-family: Segoe UI;
 	font-style: normal;
 	font-weight: normal;
-	font-size: 23px;
-	color: rgba(255,255,255,1);
+	font-size: 46px;
+	color: rgba(243,199,46,1);
 }
